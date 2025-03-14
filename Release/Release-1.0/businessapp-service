@@ -1,0 +1,9 @@
+[ADD]
+test.add=value1
+[UPDATE]
+app.url=https://devops-api.workflow.com
+enable.logging=false
+app.applicationName=businessapp
+max.connections=200
+[REMOVE]
+new.feature.enabled
