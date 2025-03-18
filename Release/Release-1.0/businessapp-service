@@ -1,7 +1,4 @@
 [UPDATE]
-app.url=https://devops-api.workflow.com
-enable.logging=false
-app.applicationName=businessapp
-max.connections=200
+enable.logging=true
 [REMOVE]
-new.feature.enabled
+max.connections=200
